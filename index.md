@@ -10,4 +10,8 @@ A fully functioning chess game designed using Java GUI. Features include sound e
 
 ### Pipe Adventure
 
+<img src="https://github.com/wukathy/wukathy.github.io/blob/master/flappy1.png" width="200" height="300" />    <img src="https://github.com/wukathy/wukathy.github.io/blob/master/flappy2.png" width="200" height="300" />    <img src="https://github.com/wukathy/wukathy.github.io/blob/master/flappy3.png" width="200" height="300" />
+
+A rendition of the iPhone app Flappy Bird, created with Swift
+
 ### More Coming Soon
